@@ -41,7 +41,7 @@ let words = [
     },
     {
         word: "ridho",
-        hint: "orangnya alim"
+        hint: "orangnya putih biasa di panggil riri"
     },
     {
         word: "rifky",

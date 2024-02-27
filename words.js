@@ -76,8 +76,8 @@ let words = [
         hint: "yang paling cool"
     },
     {
-        word: "dadang",
-        hint: "biasalah faisal..."
+        word: "iya",
+        hint: "faisal ganteng ga"
     },
     {
         word: "goyang nasi padang",
@@ -90,5 +90,21 @@ let words = [
     {
         word: "gibah",
         hint: "kebiasaan cewek?"
+    },
+    {
+        word: "nispi",
+        hint: "yang disukai novia"
+    }, 
+    {
+        word: "bahasa Inggris",
+        hint: "pelajaran yang disukai developer"
+    },
+    {
+        word: "abdul", 
+        hint: "nama kakak yang melajari lomba musik"
+    }, 
+    {
+        word: "V1.1", 
+        hint: "V? 
     }
 ];
